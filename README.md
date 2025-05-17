@@ -12,15 +12,14 @@
 - C++
 
 ## Teaching
-I'm a programming instructor for [Learning Tree](https://www.learningtree.com/)
-I teach:
+I'm a programming instructor for [Learning Tree](https://www.learningtree.com/) and I teach:
 - Advanced and Basic Python
 - Java
 - C
 - C++
 - The User Story method
 - Android Programming
-- 
+  
 ## What else am I good at?
 - Devops
 - CI/CD
