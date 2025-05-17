@@ -11,11 +11,22 @@
 - C
 - C++
 
+## Teaching
+I'm a programming instructor for [Learning Tree](https://www.learningtree.com/)
+I teach:
+- Advanced and Basic Python
+- Java
+- C
+- C++
+- The User Story method
+- Android Programming
+- 
 ## What else am I good at?
 - Devops
 - CI/CD
 - Cloud Computing
 - Full stack development of Web applications
+- Requirements handling
 
 ## What do I do when I'm not coding?
 - [Mountain biking!](https://alexanderlapajne.blogspot.com/)
